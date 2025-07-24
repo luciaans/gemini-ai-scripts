@@ -307,4 +307,4 @@ Tags: "#bagus, #cepat, #responsif"
 
 ---
 
-**Made by Lucians** 🚀
+**Made by Lucians**
